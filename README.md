@@ -1,2 +1,3 @@
-# transportation-data-science-project
-NEBDHub's Transportation Data Science Project (TDSP)
+# NEBDHub & NSDC Transportation Data Science Project (TDSP)
+
+The TDSP provides an opportunity to gain practical experience with data science by creating data-driven recommendations to make roads safer for all.
